@@ -1,0 +1,30 @@
+.primeira{
+    background-color: #b39c9c; 
+    width: 500px; 
+    height: 500px;
+}
+.segunda{
+    background-color: #258ace;
+     width: 250px; 
+     height: 250px;
+}
+.terceira{
+    color: rgb(248, 240, 240);
+    background-color: rgb(255, 145, 0); 
+    font-size: 25px; 
+    font-family: monospace; 
+    font-weight: bold;
+}
+.quarta{
+    width: 50%; 
+    height: 50%;
+    background-color: rgb(224, 0, 168);
+}
+.quinta{
+    width: 75%;
+    height: 50%; 
+    background-color: rgba(18, 155, 125, 0.87);
+}
+body{
+    height: 500px;
+    }
